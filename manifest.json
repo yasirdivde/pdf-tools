@@ -1,0 +1,23 @@
+{
+  "name": "PDFTools",
+  "short_name": "PDFTools",
+  "description": "PDFTools - Merge, split, edit, convert, and protect your documents — all in one place. Runs locally in your browser, so your files stay yours.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "./images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
